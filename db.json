@@ -1,47 +1,59 @@
-[
-  {
-    "nome": "Ana",
-    "ano_nascimento": 1984,
-    "notas": {
-      "n1": 7,
-      "n2": 5,
-      "n3": 4
+{
+  "alunos": [
+    {
+      "pessoa": {
+        "nome": "Ana",
+        "ano_nascimento": 1984,
+        "notas": {
+          "n1": 8.5,
+          "n2": 7.2,
+          "n3": 9
+        }
+      }
+    },
+    {
+      "pessoa": {
+        "nome": "Cleiton",
+        "ano_nascimento": 1998,
+        "notas": {
+          "n1": 4,
+          "n2": 6,
+          "n3": 7
+        }
+      }
+    },
+     {
+      "pessoa": {
+        "nome": "João",
+        "ano_nascimento": 1995,
+        "notas": {
+          "n1": 6.8,
+          "n2": 7.5,
+          "n3": 8.2
+        }
+      }
+    },
+    {
+      "pessoa": {
+        "nome": "Maria",
+        "ano_nascimento": 2000,
+        "notas": {
+          "n1": 9.2,
+          "n2": 8.7,
+          "n3": 7.9
+        }
+      }
+    },
+    {
+      "pessoa": {
+        "nome": "Joana",
+        "ano_nascimento": 1992,
+        "notas": {
+          "n1": 9,
+          "n2": 8.5,
+          "n3": 9.3
+        }
+      }
     }
-  },
-  {
-    "nome": "Cleiton",
-    "ano_nascimento": 1998,
-    "notas": {
-      "n1": 4,
-      "n2": 6,
-      "n3": 7
-    }
-  },
-  {
-    "nome": "Mariana",
-    "ano_nascimento": 2000,
-    "notas": {
-      "n1": 6,
-      "n2": 7,
-      "n3": 8
-    }
-  },
-  {
-    "nome": "Adelayne",
-    "ano_nascimento": 2004,
-    "notas": {
-      "n1": 9,
-      "n2": 8,
-      "n3": 7
-    }
-  },
-  {
-    "nome": "Maria",
-    "ano_nascimento": 2002,
-    "notas": {
-      "n1": 5,
-      "n2": 6,
-      "n3": 7
-    }
-  }
-]
+  ]
+}
