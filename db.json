@@ -7,7 +7,8 @@
         "notas": {
           "n1": 8.5,
           "n2": 7.2,
-          "n3": 9
+          "n3": 9,
+          "situacao": "Aprovado"
         }
       }
     },
@@ -18,18 +19,20 @@
         "notas": {
           "n1": 4,
           "n2": 6,
-          "n3": 7
+          "n3": 7,
+          "situacao": "Reprovado"
         }
       }
     },
-     {
+    {
       "pessoa": {
         "nome": "João",
         "ano_nascimento": 1995,
         "notas": {
           "n1": 6.8,
           "n2": 7.5,
-          "n3": 8.2
+          "n3": 8.2,
+          "situacao": "Aprovado"
         }
       }
     },
@@ -40,7 +43,8 @@
         "notas": {
           "n1": 9.2,
           "n2": 8.7,
-          "n3": 7.9
+          "n3": 7.9,
+          "situacao": "Aprovado"
         }
       }
     },
@@ -51,7 +55,8 @@
         "notas": {
           "n1": 9,
           "n2": 8.5,
-          "n3": 9.3
+          "n3": 9.3,
+          "situacao": "Aprovado"
         }
       }
     }
